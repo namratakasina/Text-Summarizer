@@ -1,5 +1,7 @@
 # End to End  Text-Summarizer-Project
 
+An End to End NLP project named Text Summarization using Transformer based model from Hugging Face and fine training this model on custom dataset.
+
 ## Workflow of Project:
 
 1: Update config.yaml
